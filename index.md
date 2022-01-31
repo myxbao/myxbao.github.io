@@ -1,3 +1,5 @@
+{% include media.html %}
+
 ## something happened before
 **前些天我开车经过市区的时候。好像熟悉的人都在离开。一时间感觉到了前所未有的寂静。<br>
 那一刻。仿佛以前的灵魂停留在了原地。<br>
