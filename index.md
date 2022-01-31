@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![cv](/myxbao.github.io/document/cv.png)
-
+[Link](url) and 
+![cv](/myxbao.github.io/document/cv.PNG)
 
 ```
 
