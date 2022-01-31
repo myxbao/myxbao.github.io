@@ -1,5 +1,3 @@
-[audio](https://myxbao.github.io/media.html)
-
 ## something happened before
 **前些天我开车经过市区的时候。好像熟悉的人都在离开。一时间感觉到了前所未有的寂静。<br>
 那一刻。仿佛以前的灵魂停留在了原地。<br>
@@ -14,22 +12,7 @@
 你的坚定也没有在岁月里失去棱角。<br>**
 ![myx2](https://myxbao.github.io/document/myx2.jpg)
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![test](https://myxbao.github.io/document/cv.PNG)
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## I still love you so
+**爱你如初。<br>**
+![myx3](https://myxbao.github.io/document/myx3.jpg)
 
