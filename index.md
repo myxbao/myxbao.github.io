@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-[cv](https://myxbao.github.io/document/cv.PNG)
+![test](https://myxbao.github.io/document/cv.PNG)
 
 ```
 
