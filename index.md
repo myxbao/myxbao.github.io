@@ -23,7 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Unbenannt-removebg-preview.jpg]
+[Link](url) and ![df](https://github.com/myxbao/myxbao.github.io/blob/main/Unbenannt-removebg-preview.png)
+![cv](https://user-images.githubusercontent.com/98738826/151773824-de97bbf1-d25f-433c-b35b-27210a6d3c5b.jpg)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
