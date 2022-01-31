@@ -1,5 +1,5 @@
 ## something just between us
-
+![myx](https://myxbao.github.io/document/myx1.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/myxbao/myxbao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
